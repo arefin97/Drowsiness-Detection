@@ -26,7 +26,7 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
 
-<img src="https:/github.com/arefin97/Drowsiness-Detection/blob/main/eye1.jpg">
+<img src="https:/github.com/arefin97/Drowsiness-Detection/blob/main/eye1">
 
 
 #### Relationship
