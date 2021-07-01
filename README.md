@@ -46,7 +46,7 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 
 ### Execution 🐉
-To run the code, type `python Drowsiness_Detection.py`
+To run the code
 
 ```
 python Drowsiness_Detection.py
