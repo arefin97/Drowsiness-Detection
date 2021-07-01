@@ -1,5 +1,4 @@
-# Drowsiness-Detection
-# Drowsiness Detection OpenCV 😴 🚫 🚗
+# Drowsiness Detection
 
 Detects eyes and alert when the user is drowsy.
 
@@ -27,23 +26,23 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
 
-<img src="https://github.com/arefin97/Drowsiness_Detection/blob/master/eye1.jpg">
+<img src="https://github.com/arefin97/Drowsiness-Detection/blob/master/eye1.jpg">
 
 
 #### Relationship
 
-<img src="https://github.com/arefin97/Drowsiness_Detection/blob/master/eye2.png">
+<img src="https://github.com/arefin97/Drowsiness-Detection/blob/master/eye2.png">
 
 #### Summing up
 
-<img src="https://github.com/arefin97/Drowsiness_Detection/blob/master/eye3.jpg">
+<img src="https://github.com/arefin97/Drowsiness-Detection/blob/master/eye3.jpg">
 
 
 For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
 ### Results 📊
 
-<img src="https://github.com/arefin97/Drowsiness_Detection/blob/master/drowsiness.gif">
+<img src="https://github.com/arefin97/Drowsiness-Detection/blob/master/drowsiness.gif">
 
 
 ### Execution 🐉
